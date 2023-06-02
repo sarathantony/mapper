@@ -1,0 +1,22 @@
+{
+  "name": "@sarathantony/mapper",
+  "version": "1.0.0",
+  "description": "A simulator for creating forms for the form-playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathantony/mapper.git"
+  },
+  "keywords": [
+    "dynamic-form-builder"
+  ],
+  "author": "sarathantony@yahoo.co.in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarathantony/mapper/issues"
+  },
+  "homepage": "https://github.com/sarathantony/mapper#readme"
+}
